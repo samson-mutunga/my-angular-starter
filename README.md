@@ -6,3 +6,7 @@ npm start
 
 #To run production 
 npm run build
+
+#Have fun.
+You can use either angular-2 beta or the stable angular 2
+
